@@ -1,10 +1,8 @@
 export default function Home() {
   return (
-    <main style={{ padding: "40px", fontFamily: "Arial" }}>
+    <div style={{ padding: 40 }}>
       <h1>TNV iSolutions 🚀</h1>
-      <p>Deploy thành công trên Vercel</p>
-
-      <a href="/login">Go to Login</a>
-    </main>
+      <p>Deploy OK rồi!</p>
+    </div>
   );
 }
